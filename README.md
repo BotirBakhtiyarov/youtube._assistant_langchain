@@ -6,7 +6,7 @@ The YouTube Assistant is a Streamlit-based application designed to provide answe
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git](https://github.com/BotirBakhtiyarov/youtube._assistant_langchain.git
+   git clone https://github.com/BotirBakhtiyarov/youtube._assistant_langchain.git
    cd youtube._assistant_langchain.git
    ```
 
